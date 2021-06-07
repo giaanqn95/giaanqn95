@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Android Developer 
+- 🌱 I’m currently learning IOS Developer
+- 💬 Ask me about Android
+- 📫 How to reach me: antranit95@gmail.com
+- ⚡ Fun fact: Thank you for visiting my github
 <!--
 **giaanqn95/giaanqn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
