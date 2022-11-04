@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Android Developer 
-- 🌱 I’m currently learning IOS Developer
+- 🌱 I’m currently trying to be a better Android Developer
 - 💬 Ask me about Android
 - 📫 How to reach me: antranit95@gmail.com
 - ⚡ Fun fact: Thank you for visiting my github
