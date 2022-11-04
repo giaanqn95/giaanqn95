@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Android Developer 
 - 🌱 I’m currently trying to be a better Android Developer
-- 💬 Ask me about Android
+- 💬 Ask me about Android, if I don't know, I will try to find out and solve it with you
 - 📫 How to reach me: antranit95@gmail.com
 - ⚡ Fun fact: Thank you for visiting my github
 <!--
